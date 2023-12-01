@@ -1,3 +1,7 @@
 This is a home-budget project which integrates WhatsApp with python code to extract insights from monthly expenses.
-We use a group in WhatsApp to record every daily expense because we are very familiar with this message APP. At the end of the month we download the .tex file with all the records and then we import it in phyton to analyse the data.
-
+We use a group in WhatsApp to record every daily expense because we are very familiar with this message APP. 
+At the end of the month we download the .tex file with all the records and then we import it in phyton to analyse the data.
+Python code was build to answer the following questions: 
+  1. How much did I spend in the month?
+  2. In which categories did I spend the most?
+  3. What were the biggest expenses in each category? 
